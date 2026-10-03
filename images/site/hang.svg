@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="800" viewBox="0 0 1280 800" role="img">
+  <rect width="1280" height="800" fill="#fdf8ea"/>
+  <rect x="48" y="48" width="1184" height="704" fill="#ffffff" stroke="#c8c6c5" stroke-width="2"/>
+  <text x="640.0" y="382.0" text-anchor="middle" font-family="DM Sans, Helvetica, Arial, sans-serif" font-size="36" fill="#241c15">Pipe and truss</text>
+  <text x="640.0" y="428.0" text-anchor="middle" font-family="DM Sans, Helvetica, Arial, sans-serif" font-size="20" fill="#928e8a">Screenshot coming — drop a PNG or WebP here</text>
+</svg>

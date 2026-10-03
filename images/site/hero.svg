@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="900" viewBox="0 0 1440 900" role="img">
+  <rect width="1440" height="900" fill="#fdf8ea"/>
+  <rect x="48" y="48" width="1344" height="804" fill="#ffffff" stroke="#c8c6c5" stroke-width="2"/>
+  <text x="720.0" y="432.0" text-anchor="middle" font-family="DM Sans, Helvetica, Arial, sans-serif" font-size="36" fill="#241c15">A finished plot</text>
+  <text x="720.0" y="478.0" text-anchor="middle" font-family="DM Sans, Helvetica, Arial, sans-serif" font-size="20" fill="#928e8a">Screenshot coming — drop a PNG or WebP here</text>
+</svg>
