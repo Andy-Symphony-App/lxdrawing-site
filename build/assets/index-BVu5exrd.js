@@ -1,4 +1,4 @@
-import{a as d,b as v}from"./index-BywOxFsv.js";import{V as u,v as e,I as o,O as c,W as l,G as g,x as f,N as m,$ as b,H as h}from"./bootstrapTheme-CmbHM5If.js";var y=`
+import{a as d,b as v}from"./index-B9pO6wRM.js";import{V as u,v as e,I as o,O as c,W as l,G as g,x as f,N as m,$ as b,H as h}from"./bootstrapTheme-CDZX5pn1.js";var y=`
     .p-avatar {
         display: inline-flex;
         align-items: center;
