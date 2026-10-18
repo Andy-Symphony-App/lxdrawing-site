@@ -1,0 +1,18 @@
+User-agent: *
+Allow: /
+
+Disallow: /draw
+Disallow: /editor
+Disallow: /dashboard
+Disallow: /demo
+Disallow: /login
+Disallow: /register
+Disallow: /profile
+Disallow: /forgot-password
+Disallow: /reset-password
+Disallow: /verify-email
+Disallow: /confirm-password
+Disallow: /api
+Disallow: /sanctum
+
+Sitemap: https://plan.symphony-app.com/sitemap.xml

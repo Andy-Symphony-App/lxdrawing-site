@@ -1,0 +1,15 @@
+# Symphony Draw
+
+> Symphony Draw is free browser-based lighting plot software for placing fixtures, patching rigs, and creating professional plots and paperwork.
+
+Symphony is the platform. Symphony Draw is the drawing tool. It is free to use. These are the public pages. The editor and account pages are not listed here.
+
+## Pages
+
+- [Symphony Draw — Free Lighting Plot Software](https://plan.symphony-app.com/): Symphony Draw is free browser-based lighting plot software for placing fixtures, patching rigs, and creating professional plots and paperwork.
+- [Pricing](https://plan.symphony-app.com/pricing): Draw a plot and print the sheet for free. Extras are not for sale yet.
+- [About Symphony Draw](https://plan.symphony-app.com/about): Symphony Draw is a lighting plot for lighting designers who want the hang on paper.
+- [Frequently asked questions](https://plan.symphony-app.com/faq): Short answers on drawing a plot, a guest sheet, and keeping it.
+- [Privacy notice](https://plan.symphony-app.com/privacy): How Symphony looks after an account, a plot, and a donation.
+- [Terms and conditions](https://plan.symphony-app.com/terms): The terms for using Symphony to draw a plot.
+- [Donate](https://plan.symphony-app.com/donate): Enjoying Symphony? Fancy getting me a drink?
